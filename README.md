@@ -291,6 +291,234 @@ Kendinize göre hesaplayabilirsiniz ancak kağıt kalem vs istemeyin. %25 ¼ ind
 
 ## Bölüm 2 Veri Analisti Mülakat Süreci
 
-Devamı gelecek...
+### A-Genel Veri Analisti Mülakat Soruları
+
+### 1-Çalıştığınız en büyük veri seti hakkında bilgi verebilir misiniz? Kaç değişkenden oluşuyordu ve türleri nelerdi?
+
+--Çok fazla açıklamada bulunmanıza gerek yok. Eski çalışmalarınızdan bir örnek verebilirsiniz.
+
+Müşteri tüketim davranışı modelleme projesinde 1000'e yakın sayıda değişkenden oluşan ve hem sayısal hem string olmak üzere türlere sahip veri setinde çalıştım. 
+
+### 2-Bir veri analisti olarak, farklı süreçlere veya araçlara geçiş yapılmasını hiç önerdiniz mi? Öneri sonucunuz ne oldu?
+
+--Her türlü ayrıntı verebileceğiniz bir sorudur.
+
+Her ne kadar teknik olmayan departmanlardaki veriler genellikle veri analistleri tarafından işleniyor olsa da, veri analizi tarafında olmayan meslektaşlarımın veriye erişimi olduğu bir şirkette çalıştım. Bu durum, şirketin genel stratejisine önemli zararlar veren birçok yanlış yorumlanmış veri vakasına yol açtı. Örnekler topladım ve bu durumun aslında daha fazla zarar verebileceğini belirttim. Meslektaşlarıma veri erişimi konusunda veri analistlerine güvenmelerini önerdim. Önerim uygulandıktan sonra yanlış yorumlanan veri vakalarının sayısı büyük ölçüde azaldı.
+
+### 3-Bir veri analisti olarak rolünüzde yazılı iletişim biçimini ne zaman kullanırsınız?
+
+--Veri analistliği işinin tek yönü sayılarla çalışmak değildir. Veri analistlerinin analiz sonuçlarını yönetime ve paydaşlara etkili bir şekilde sunabilmeleri için güçlü yazma becerilerine de ihtiyaçları vardır. Bu soru bunu ölçer. Yani hikaye anlatma becerinizi.
+
+Zaman içinde, ister iş arkadaşlarımla e-posta iletişimi yoluyla ister üst yönetim için analitik proje özetleri yazarak olsun, yazma becerilerimi geliştirmek için pek çok fırsatım oldu. Verileri açık ve özlü bir şekilde yorumlayabildiğime inanıyorum. Ancak, sürekli olarak yazma becerilerimi daha da geliştirmenin yollarını arıyorum.
+
+### 4-Hiç aynı projede hem nicel hem de nitel verileri kullandınız mı?
+
+--Analiz süreçlerinde genellikle karşılaşacağınız bir durumdur. Veriler hem nicel hem de nitel olabilir. Örneğin anket verileri. Bu soruda tek tek teknik bilgi vermenize gerek yok. Daha önceki böyle bir çalışmalarınızdan bahsedebilirsiniz.
+
+Müşteri davranış analizi için böyle bir anket verisi ile çalışma fırsatım olmuştu.
+
+### 5-Kitlelere sunum yapma konusundaki deneyiminiz nedir?
+
+--Güçlü sunum becerileri her veri analisti için son derece değerlidir. İşverenler sadece mükemmel analitik becerilere sahip değil, aynı zamanda sonuçlarını üst düzey yönetim ve yöneticiler ile teknik olmayan iş arkadaşları da dahil olmak üzere farklı kitlelere sunabilecek özgüvene ve belagate sahip adaylar aramaktadır. Yine geçmişteki böyle bir deneyiminizden basitçe bahsedebilirsiniz.
+
+Veri Analisti olarak görevimde, farklı geçmişlere sahip iş arkadaşlarım ve müşterilerden oluşan çeşitli kitlelere sunum yaptım. Hem küçük hem de daha büyük gruplara sunumlar yaptım. Sanırım şimdiye kadarki en büyük grup, çoğunlukla teknik olmayan departmanlardan meslektaşlarımdan oluşan yaklaşık 30 kişiydi. Üst yönetimle video konferans görüşmesi yoluyla uzaktan yapılan 1 tanesi hariç, bu sunumların hepsi yüz yüze gerçekleştirildi.
+
+### 6-Bizimkine benzer bir sektörde çalıştınız mı?
+
+--Bu soru sektörü tanıyıp tanımadığınızı ölçen ama çok ciddi bir kriter olmayan sorudur.
+
+Eğer çalışmışsanız ona göre cevap verin, ama çalışmadıysanız eski sektöre nasıl uyum sağlayıp faydalı olduğunuzu anlatın.
+
+### 7-Veri Analisti olarak kariyer fırsatlarınızı artırmak için herhangi bir sertifika aldınız mı?
+
+--Basit bir soru ama kendi deneyimlerimden yola çıkarsak bu veya buna benzer bir soru ile karşılaşmadım.
+
+Eğer var ise anlatabilirsiniz, yok ise de hangi alanlarda almak istediğinizi belirtebilirsiniz.
+
+### 8-Python'da veri analizi için kullanılan birkaç kütüphaneyi sayınız?
+
+--Teknik ama basit bir sorudur.
+
+Numpy, Pandas, Scikit Learn, Scipy, Matplotlib\ Seaborn sayabilirsiniz. Ve ne işe yaradıklarını da kısaca anlatabilirsiniz.
+
+### 9-Lojistik Regresyon nedir?
+
+--Teknik ve bilgi gerektiren bir sorudur.
+
+Lojistik regresyon en temek sınıflandırma modellerinden birisidir. Temel olarak basitliği ve yorumlama kolaylığı nedeniyle yaygın olarak kullanılmaktadır. Kategorik değişkenler modellenirken rahatlıkla kullanılabilir. Daha fazla da teknik bilgi verilebilir.
+
+### 10-Büyük veri setlerinde verileri nasıl topladınız ve analize hazır hale nasıl getirdiniz?
+
+--Teknik ve süreci anlatmanız gereken önemli bir sorudur. 
+
+Örneğin bir şirkette saha araştırmacıları sizin için topluyor olabilir, şirket içi veriler sürekli veri tabanında olabilir siz oradan alabilirsiniz, veri kazıma gibi spesifik alanlar tercih edilebilir. Bu verileri ise bir ETL (Extract, transform, load) sistemi veya yazılımı içerisinde analize hazır hale getirebilir veya Python gibi diller kullanılarak sürece uygun hale getirilebilir. Burada bildiğiniz tüm süreçleri teknik olarak da açıklayabilirsiniz.
+
+### 11-Önceki veri analizi projelerinizin her aşamasında hangi araçları kullandınız?
+
+--Teknik ve süreci anlatmanız gereken önemli bir sorudur. 
+
+Veri çekme aşamasında SQL, hazırlık keşif aşamasında Excel, Python, SPSS, SAS, görselleştirme de Power BI, sunumlarda Power Point şeklinde anlatabilirsiniz.
+
+### 12-Büyük şirketlerde veriler genellikle birden fazla veri ambarında depolanır. Hiç gerekli verileri toplamak için birden fazla veri ambarını sorgulamak zorunda kaldığınız karmaşık bir analitik proje üzerinde çalıştınız mı?
+
+--Karmaşık teknik bilgilerinizi ölçmek için kullanılan bir soru gibi gözükse de detay vermenize çok gerek yok.
+
+Eğer yaptıysanız kısaca bilgi verebilirsiniz. Yoksa da çok zor olacağını düşünmediğinizi, sadece tek bir ambardan değil birden çok ambara sorgu göndermeniz gerektiğini söyleyebilirsiniz.
+
+### B-Veri Analisti Teknik Mülakat Soruları
+
+### 13-Veri analizinin çeşitli aşamalarında hangi araçları veya yazılımları kullanmayı tercih ediyorsunuz ve neden?
+
+--Burada ne kadar çok araç veya yazılım bilmenizden ziyade iş başvurusu yaptığınız firmadaki araçları ne kadar bildiğinizi ölçer.
+
+Şirketin iş ilanında sizden istenen araçlar nelerse o araçlar üzerinden örnekler veriniz. O yüzden iş ilanlarında aranan kriterleri dikkatle okuyunuz.
+
+### 14-Hiç istatistiksel modeller oluşturdunuz mu veya bunlarla çalıştınız mı?
+
+--Bir veri analisti olarak, başvurduğunuz iş için gerekli olmadığı sürece, özellikle istatistiksel modeller konusunda deneyim sahibi olmanız gerekmez. İstatistiksel modellerin oluşturulması, kullanılması veya sürdürülmesinde yer almadıysanız, bu konuda açık olun ve sahip olabileceğiniz herhangi bir bilgi veya kısmi deneyimden bahsedin.
+
+Deneyiminiz var ise bunu açıkça aktarın. Yok ise de yine açıkça belirtin. Örneğin böyle bir projede yer aldım ancak görevim istatistiksel modeller değildi. Benim görevim değişken seçme ve model performansı tespit etme konusundaydı.
+
+### 15-Bir veri analizi projesinin en çok hangi adımından keyif alıyorsunuz?
+
+--Süreç içerisindeki güçlü yönlerinizi öğrenmek için sorulan bir sorudur.
+
+Kişiden kişiye cevaplar değişse de yine bir adımdan başlayarak konuya giriş yapabilirsiniz. Örneğin veri temizleme süreci gibi. Sonra da yeni bir şeyleri öğrenmenin keyfinden bahsedebilirsiniz.
+
+### 16-İstatistik bilginiz nedir ve bunu bir veri analisti olarak işinizde nasıl kullandınız?
+
+--Veri analistleri temel istatistik bilgisine ve deneyimine sahip olmalıdır. Bu, ortalama, medyan ve mod hesaplamanın yanı sıra anlamlılık testi yapma konusunu da bilmeniz anlamına gelir.
+
+Temel istatistiksel süreçlerden bahsedebilir, daha önceki projelerinizden bir örnek verebilirsiniz. Örneğin borsa için haftanın günü anomalisi üzerine çalıştım ve bunun için anova test sürecini kullandım gibi.
+
+### 17-Bir veri analisti olarak projelerinizde hangi programlama dillerini kullandınız? En çok hangisini sevdiğinizi söyler misiniz?
+
+--Birçok şirket bu süreç için farklı dilleri kullanır. Siz yine iş ilanında olan diller üzerine yoğunlaşmaya çalışın.
+
+SQL ve Python en keyif aldığım diller. Hem süreç içini daha iyi yönetebiliyorum hem de süreçteki sorunları daha rahat çözebiliyorum.
+
+### 18-Kaç yıllık SQL programlama deneyiminiz var? Son işinizde, analitik projelerinizin kaçı SQL kullanımını içeriyordu?
+
+--SQL, öğrenmesi en kolay dillerinden biri olarak kabul edilir. Dolayısıyla, bir Veri Analisti olarak iş piyasasında rekabetçi olmak istiyorsanız, SQL'e mükemmel bir şekilde hakim olduğunuzu gösterebilmelisiniz.
+
+5 yıl boyunca projelerimin en az %80'inde SQL kullandım. Elbette projelerimin farklı aşamaları için başka programlama dillerine de başvurdum. Ancak sonuç olarak, en çok kullandığım ve veri analisti görevlerimin çoğu için en iyisi olduğunu düşündüğüm SQL'dir.
+
+### 19-Şimdiye kadar hangi Excel fonksiyonlarını düzenli olarak kullandınız? Excel'i projelerinizde analitik bir araç olarak nasıl kullandığınızı ayrıntılı olarak anlatabilir misiniz?
+
+--Excel bilginizin veri analizi sürecinde aktif olarak kullanabilip kullanamayacağınızı ölçen bir sorudur.
+
+Özellikle düşeyara gibi aktif kullanılan fonksiyonlardan bahsedebilir, raporlama amacıyla pivot table ve vba kullandığınızı da aktarabilirsiniz. Bunu da yine örnek bir çalışmanızı referans olarak verebilirsiniz.
+
+### 20-Dashboard tabloları oluşturma konusundaki deneyiminiz nedir? Bu amaç için hangi araçları kullandığınızı paylaşabilir misiniz?
+
+--Dashboard tabloları, KPI'ları ve metrikleri görsel olarak yakaladıkları ve iş hedeflerini takip etmelerine yardımcı oldukları için yöneticiler için çok önemlidir. Bununla birlikte, veri analistleri genellikle hem dashboard tablolarının oluşturulmasında hem de güncellenmesinde yer alır. Bu amaç için en iyi araçlardan bazıları Excel, Tableau ve Power BI'dır
+
+İşim gereği. Hem Power BI hem de Excel'de müşteri analitiği ile ilgili gösterge tabloları oluşturdum. Bu da marka bilinirliği, satışlar ve müşteri memnuniyeti gibi pazarlama metriklerini kullandığım anlamına geliyor. Verileri görselleştirmek için pasta grafikler, çubuk grafikler, çizgi grafikler ve tablolarla çalıştım. Özellikle Excel de vba kullanarak ve Power BI'de sürükle bırak yöntemleri kullanarak bu işlemleri gerçekleştirdim.
+
+### C-Veri Analisti Davranışsal Mülakat Soruları
+
+### 21-Bir veri analisti olarak, genellikle veri ve veritabanları konusunda teknik altyapıya ve daha derin bir bilgiye sahip olmayan kişilerle çalışırsınız. Hiç böyle bir durumla karşılaştınız mı ve bu zorlukla nasıl başa çıktınız?
+
+--Teknik bir bilgiyi karşıdakine aktarmanızı ölçen bir soru.
+
+Sistemin en temel işleyiş mekanizmasını aktardıktan sonra yine basit bir şekilde gerçek hayattan örnekler verilebilir. Böyle bir zorlukla karşılaşmadım ancak karşılaşırsam bu şekilde süreci yönetirim.
+
+### 22-Siz ve ekibinizin bir projenin sonuçları karşısında şaşırdığınız bir zamanı anlatın?
+
+--Bu genellikle projede yeni bir şey öğrendiğiniz zaman ortaya çıkar. Bu olumlu da olabilir, üzerinde uzunca süre çözemediğiniz bir sorunda olabilir.
+
+Bir müşteri veri tabanının rutin analizini yaparken, şirketin yeni uygun bir ürün ve ilgili bir mesajla hedefleyebileceği bir müşteri alt segmenti keşfettiğimde tamamen şaşırdım.
+
+### 23-Sizce yaratıcılık bir veri analisti için neden önemlidir? Şimdiye kadar işinizde yaratıcı düşünceyi nasıl kullandınız?
+
+--Bir veri analisti genellikle teknik bir geçmişe ve mükemmel matematik ve istatistik becerilerine sahip bir profesyonel olarak görülür. Bununla birlikte, yaratıcılık aklınıza gelen ilk veri analisti niteliği olmasa da, analitik planlar ve veri görselleştirmeleri geliştirmede ve hatta veri sorunlarına alışılmışın dışında çözümler bulmada hala önemlidir. Cevabı kişiden kişiye değişen bir sorudur.
+
+Cevabı kişiden kişiye değiştiği için herhangi bir sorunu farklı bir bakış açısıyla nasıl çözdünüz buna örnek veriniz.
+
+### 24-Bir veri analistinin farklı geçmişlere, rollere ve görevlere sahip ekip üyeleriyle verimli bir şekilde çalışabilmesi için sahip olması gereken en önemli beceriler nelerdir?
+
+--Bu soruyu yanıtlarken, işe alım yöneticisinin “iletişim becerilerinden” farklı bir şey duymak isteyeceğini unutmayın. Bir veri analisti olarak rolünüzde, çapraz fonksiyonlu bir ekipte iş kalitesini artırmak için kullandığınız bir yaklaşımı düşünün.
+
+Bence bir veri analistinin rolü, teknik terimleri teknik olmayan bir dille açıklamanın ötesine geçiyor. Her zaman meslektaşlarımın işlerini daha iyi anlamaya çalışırım, böylece istatistiksel kavramlara ilişkin açıklamalarımı onların ilgilendikleri belirli iş alanlarına ve bu kavramların çözmeleri gereken görevlerle nasıl ilişkili olduğuna bağlayabilirim.
+
+### 25-Sizce bir veri analisti için hangi sosyal beceriler gereklidir ve neden?
+
+--Sosyal beceriler, diğer bir deyişle teknik olmayan beceriler, başkalarıyla verimli bir şekilde çalışmak ve yüksek performans düzeyini korumak için önemlidir. Çoğu meslekte olduğu gibi, veri analistleri de davranışlarının ve çalışma alışkanlıklarının ekiplerindeki üyeleri nasıl etkilediğinin farkında olmalıdır. Bu nedenle, burada cevabınızı geçmiş iş deneyiminize dayandırmalı ve geliştirdiğiniz önemli bir sosyal beceriyi vurgulamalısınız.
+
+Liderlik becerilerinin bir veri analistinin geliştirmesi gereken en önemli sosyal becerilerden biri olduğuna inanıyorum. Anladığım kadarıyla liderlik, ekibinizdeki üyelere yol göstermek ve yardımcı olmak için harekete geçmek anlamına geliyor. Ve bu illa ki yönetici pozisyonunda olmanız gerektiği anlamına gelmiyor. Benim işimde liderlik, şirket verileri ve bunların yorumlanması konusunda uzman görüşler sunmak anlamına gelir. Bu, yıllar boyunca geliştirmek için çok çalıştığım bir beceri. Yeteneklerime güvenmenin artık beni alanımda lider bir figür haline getirdiğini söyleyebilirim ve ekip üyelerim uzmanlığıma güvenebileceklerini biliyorlar.
+
+### 26-Veri kısıtlamaları nedeniyle paydaşların ihtiyaç duydukları cevaba ulaşamadıkları bir projeden bahsedin. Bu sorunu nasıl çözdünüz?
+
+--Mülakatı yapan kişi, bir veri analisti olarak her türlü veri sorunuyla başa çıkabileceğiniz konusunda güvence almak ister. Bu, özellikle veri konusunda derinlemesine bir anlayışa sahip olmayan paydaşlarla işbirliği yaparken önemlidir. Bu soru aynı zamanda problem çözme becerilerinizi sergilemek için de idealdir.
+
+Birkaç yıl önce, şirket yöneticileri tarafından başlatılan bir müşteri segmentasyonu projesinde çalıştım. Ne yazık ki, müşteri veri ambarındaki veriler yeterince sağlam olmadığı için önemli bir müşteri segmentasyon planı oluşturamadılar. Projenin ilerlemesine yardımcı olmak için veri ambarı ekibiyle yakın bir şekilde çalıştım. İşbirliğimiz sonucunda veri inisiyatifleri ve eyleme geçirilebilir adımlar belirlendi ve sonuçta proje nihai hedefine ulaştı.
+
+### 27-Profesyonel deneyiminizde hangi web analiz araçlarını kullandınız?
+
+--Giderek daha fazla veri analisti iş ilanı web analitiği deneyimi gerektiriyor (veya bunu tercih edilen bir beceri olarak listeliyor). Ve bazı şirketler rolleri ve iş tanımlarını birbirinden ayırırken, diğerleri her şeyi kapsayan bir beceri setine sahip bir veri analistini işe almayı tercih ediyor. Dolayısıyla, ilgili deneyiminiz varsa, takip ettiğiniz metriklerden ve bunların uygulama alanından bahsetmek iyi bir fikirdir.
+
+Google Analytics'i kullanarak, daha büyük bir pazarlama kampanyası değerlendirme projesinin bir parçası olarak web analizlerini kullandım. Takip ettiğim web metrikleri arasında açılma oranı, tıklama oranı, sayfada geçirilen ortalama süre ve dönüşüm oranı yer alıyordu. Buna ek olarak, Google Analytics'te huniler oluşturarak ziyaretçilerin dönüşüm sağlamadan önce nereye gittiğini ölçebildim. QUESTIONStracking bu web metriklerini web dışı pazarlama çabalarıyla birlikte takip ederek, belirli segmentleri hedeflemek için kullanılacak en iyi pazarlama kanallarını önerebildim.
+
+### 28-Bana ekip olarak çalıştığınız bir zamandan örnek verin?
+
+--Modern kurumsal dünyanın en büyük erdemlerinden biri ekip olarak iyi çalışabilmektir. Tam olarak bunu yapabildiğinizi gösteren bir hikayeyle hazır olduğunuzdan emin olun. Bir ekip çalışanı şu yetenekleriyle ayırt edilebilir:
+
+- Ekibin ihtiyaçlarını ilk sıraya koyun
+
+- Diğer ekip üyeleri iyi iletişim kurun
+
+- Bir grubun parçası olarak başarılı olmayı istemek
+
+- Aktif olarak dinleyin
+
+- Başkalarına saygı gösterin
+
+- Diğer çalışma tarzlarını takdir edin
+
+Eğitimimin son yılındaki bir grup ödevi, benim ve dört sınıf arkadaşımın ayrıntılı bir Şirket Değerlemesi yapmamı gerektiriyordu. Bu, önemli miktarda çalışma içeren oldukça zor bir görevdi. Çalışmanın tamamını teslim etmek için son tarih 2 hafta içindeydi. O sırada staj başvurularını doldurmakla meşguldüm ve diğer bazı sınavlarıma hazırlanmam gerekiyordu. Bu durum diğer ekip üyeleri için de geçerliydi. Yine de hepimiz tam zamanlı olarak projeye odaklandık, çünkü anladığım kadarıyla dayatılan sıkı son tarihe ancak bu şekilde uyabilirdik. Projeyle ilgili bir başka ilginç şey de her bir grup üyesinin farklı tarzlara sahip olmasına rağmen birlikte iyi çalışmayı başarmamızdı. Aktif bir şekilde dinledik ve diğerlerinin fikirlerine açık olduk. Farklı geçmişlerden geldiğimiz düşünüldüğünde, her birimiz projeye kesinlikle değer kattık. İyi iletişim, sorumluluklarımızı koordine etmemize ve bireysel olarak atandığımız ayrı iş parçalarını entegre etmemize yardımcı oldu.
+
+### 29-Hedeflerinize ulaşamadığınız bir zamanı anlatın?
+
+--Hayatta bazı başarısızlıklar kaçınılmazdır. Cesur ve gözü pek olanlar birçok yeni şey denerler ve bu nedenle çok daha sık başarısız olurlar. Bir şeyi başarmak istediğiniz ama başaramadığınız bir zamanı açıklamaktan korkmayın. Muhtemelen mülakatı yapan kişi, yaşadığınız başarısızlıkla nasıl başa çıktığınızla daha çok ilgileniyordur. Hatalarınızdan ders alıp almadığınızı ve gelecekte başarılı olmak için motive olup olmadığınızı bilmek ister. Bir hikaye düşündüğünüzde, büyük bir başarısızlık seçmeyin ve dış faktörlerin de başarısızlığınızı etkilediği bir hikaye seçmeye çalışın. Kariyerinizin ilk aşamalarında olduğunuz göz önüne alındığında, sizin açınızdan deneyimsizlik de sorun değildir. Başarısızlığınızın nedeni olarak gelecekte işinizi olumsuz etkileyebilecek nitelikleri göstermeyin (örneğin detaylara dikkat, baskıyla başa çıkma becerisi, vb.)
+Olumsuz bir durumu değerli bir öğrenme deneyimine dönüştürdüğünüzü göstermeniz çok önemlidir. Bu, mülakatçı üzerinde harika bir izlenim bırakacaktır.
+
+Geçen yıl, bir yaz stajı fırsatı bulmaya çok hevesliydim ancak bunu başaramadım. Bunun arkasındaki ana nedenlerden biri şu anda karşı karşıya olduğumuz zorlu iş piyasasıydı. Bununla birlikte, çok deneyimsiz olduğuma ve iyi bir fırsat bulmanın ne kadar zor olduğunu fark etmediğime inanıyorum. Bu yıl tamamen farklı bir yaklaşım sergiledim. Dersimi çok iyi aldığım söylenebilir. Kasım ayından itibaren kendimi hazırlamaya başladım ve takip etmek istediğim fırsatların kısa bir listesini oluşturdum. Ardından tüm potansiyel işverenleri araştırdım ve gerçekten ilgi çekici olanları seçtim. CV'm ve kapak mektuplarım üzerinde çalışmak ve mülakatlara hazırlanmak için daha fazla zamanım oldu. Tabii ki aynı hatayı ikinci kez yapmayacaktım.
+
+### 30-Sizi neden işe almalıyız?
+
+--Bu soru “Şirketimize nasıl değer katarsınız?” sorusuna çok benzer. İşe Alım Yöneticisi, işe alınmanız fikrini ona satmanız için size meydan okur. Profiliniz satılması gereken üründür. Kalemle verdiğimiz örneği hatırlıyor musunuz?
+Çoğu insan niteliklerini ve yeterliliklerini sıralamaya başlar ve bu sırada doğru sinire dokunacaklarını umar. Ancak izlenecek yol bu değildir. İşe Alma Yöneticisi özgeçmişinizi okumuştur, kimlik bilgilerinizi zaten biliyordur. Anlamak istediği şey, zor bir soruyla başa çıkıp çıkamayacağınız ve geçerli bir noktaya değinirken ikna edici olup olamayacağınızdır. Bunun yerine cevabınızı bir soruyla açmaya çalışın.
+
+Yönetici: Bu iş için başvuran bu kadar çok kişi varken neden sizi işe alalım?
+
+İş Arayan: Harika bir soru. Ama ben de size bir şey sormak istiyorum. Sorabilir miyim?
+
+Yönetici: Tabii, buyurun.
+
+İş Arayan: Firmanızda iyi bir Analist nasıl olur?
+
+Yönetici: Biz çok yetenekli insanlar arıyoruz.
+
+SORULAR bağımsızdırlar ve baskı altındayken bile hızlı öğrenebilirler. Bu mantıklı mı?
+
+İş Arayan: Elbette, mantıklı. Firmanızın faaliyet gösterdiği ortamın bu tür nitelikler gerektirdiğini tahmin edebiliyorum. Zaten bu pozisyona başvurmamın nedeni de tam olarak buydu. Dinamik ortamınızın bir parçası olmak istiyorum. Hızlı öğrenebiliyorum ve değişen koşullara kolayca uyum sağlayabiliyorum.
+
+Kulağa çok daha hoş geliyor, değil mi?
+Bu soruya başarılı bir yanıt verebilmek için mülakatı yapan kişiyle iyi iletişim kurmanız ve tam olarak ne aradıklarını anlamanız gerekir. Aksi takdirde, sizi neden işe almaları gerektiğini bilemezsiniz ve cevabınız karanlıkta kalmış olur.
+
+### D-Veri Analisti Mantık Mülakat Soruları
+
+### 31-Bir araba saatte ortalama 30 mil hızla 60 millik bir mesafe kat eder. Tüm yolculuk boyunca saatte ortalama 40 mil hız yapmak için arabanın dönüş yolunda (aynı yolu kullanarak) ne kadar hızlı gitmesi gerekir?
+
+Her iki yönde kat edilmesi gereken toplam mesafe 120 mildir. Elde etmemiz gereken ortalama hız 40 mildir; bu nedenle, bunu başarmak için otomobilin 3 saat boyunca seyahat etmesi gerekir:
+
+120 mil/saatte 40 mil = 3 saat
+
+Araba zaten iki saattir seyahat ediyor:
+
+Saatte 60 mil/30 mil = 2 saat
+
+Yani, dönüş yolunda sadece 1 saat seyahat etmesi gerekiyor. Mesafe 60 mil. Bu nedenle arabanın saatte 60 mil hızla gitmesi gerekir.
+
 
 
